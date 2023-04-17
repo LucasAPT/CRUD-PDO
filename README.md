@@ -1,5 +1,4 @@
 # CRUD-PDO
-CRUD básico referente a uma agenda.
 
 Trabalho desenvolvido na disciplina Linguaguem Técnica de Programação II, da Faculdade Senac.
 
